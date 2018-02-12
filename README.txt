@@ -31,7 +31,7 @@ Points:
 2 - Filename, Header, and Submission Process
 1 - Output testing
 
-Create a Repository using Github Classroom by following this url: <INSERT HERE>
+Create a Repository using Github Classroom by following this url: https://classroom.github.com/g/jHXkJQnq
 
 Header
 //Author: Eric May (your name)
